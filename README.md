@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shubh21295-rgb/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubh21295-rgb/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/shubh21295-rgb/leetcode/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/shubh21295-rgb/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/shubh21295-rgb/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubh21295-rgb/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shubh21295-rgb/leetcode/tree/master/0136-single-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubh21295-rgb/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/shubh21295-rgb/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/shubh21295-rgb/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/shubh21295-rgb/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shubh21295-rgb/leetcode/tree/master/0283-move-zeroes) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shubh21295-rgb/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shubh21295-rgb/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shubh21295-rgb/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shubh21295-rgb/leetcode/tree/master/0268-missing-number) |
