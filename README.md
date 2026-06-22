@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shubh21295-rgb/leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/shubh21295-rgb/leetcode/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/shubh21295-rgb/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/shubh21295-rgb/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
