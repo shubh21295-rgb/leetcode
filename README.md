@@ -46,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shubh21295-rgb/leetcode/tree/master/0136-single-number) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/shubh21295-rgb/leetcode/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/shubh21295-rgb/leetcode/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/shubh21295-rgb/leetcode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
