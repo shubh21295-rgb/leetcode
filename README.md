@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shubh21295-rgb/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/shubh21295-rgb/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shubh21295-rgb/leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/shubh21295-rgb/leetcode/tree/master/0326-power-of-three) |
 ## Linked List
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shubh21295-rgb/leetcode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/shubh21295-rgb/leetcode/tree/master/0326-power-of-three) |
 ## Number Theory
 |  |
 | ------- |
