@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shubh21295-rgb/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shubh21295-rgb/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shubh21295-rgb/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shubh21295-rgb/leetcode/tree/master/0268-missing-number) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/shubh21295-rgb/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shubh21295-rgb/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shubh21295-rgb/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shubh21295-rgb/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shubh21295-rgb/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shubh21295-rgb/leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/shubh21295-rgb/leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/shubh21295-rgb/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/shubh21295-rgb/leetcode/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/shubh21295-rgb/leetcode/tree/master/0268-missing-number) |
 ## Design
 |  |
 | ------- |
@@ -79,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shubh21295-rgb/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shubh21295-rgb/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shubh21295-rgb/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/shubh21295-rgb/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/shubh21295-rgb/leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/shubh21295-rgb/leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
