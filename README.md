@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shubh21295-rgb/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shubh21295-rgb/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shubh21295-rgb/leetcode/tree/master/0283-move-zeroes) |
+| [0792-number-of-matching-subsequences](https://github.com/shubh21295-rgb/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/shubh21295-rgb/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Hash Table
 |  |
@@ -26,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shubh21295-rgb/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shubh21295-rgb/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shubh21295-rgb/leetcode/tree/master/0268-missing-number) |
+| [0792-number-of-matching-subsequences](https://github.com/shubh21295-rgb/leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shubh21295-rgb/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shubh21295-rgb/leetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/shubh21295-rgb/leetcode/tree/master/0412-fizz-buzz) |
+| [0792-number-of-matching-subsequences](https://github.com/shubh21295-rgb/leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Stack
 |  |
 | ------- |
@@ -41,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/shubh21295-rgb/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/shubh21295-rgb/leetcode/tree/master/0268-missing-number) |
+| [0792-number-of-matching-subsequences](https://github.com/shubh21295-rgb/leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/shubh21295-rgb/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubh21295-rgb/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0792-number-of-matching-subsequences](https://github.com/shubh21295-rgb/leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Greedy
 |  |
 | ------- |
@@ -91,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shubh21295-rgb/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shubh21295-rgb/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shubh21295-rgb/leetcode/tree/master/0268-missing-number) |
+| [0792-number-of-matching-subsequences](https://github.com/shubh21295-rgb/leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Math
 |  |
 | ------- |
@@ -112,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shubh21295-rgb/leetcode/tree/master/0258-add-digits) |
+## Trie
+|  |
+| ------- |
+| [0792-number-of-matching-subsequences](https://github.com/shubh21295-rgb/leetcode/tree/master/0792-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->
